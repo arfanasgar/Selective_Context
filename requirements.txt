@@ -9,3 +9,6 @@ tqdm
 rouge-score
 bert-score
 scipy
+matplotlib
+sentencepiece
+tiktoken
