@@ -767,12 +767,9 @@ def _load_local_information_model():
 
 def get_self_information(text, num_retry=5):
     """
-    Calculate token self-information locally:
-        self_information(token) = -log P(token | preceding tokens)
-
-    Character offsets preserve exact source text, which is required by the
-    existing phrase-level alignment code. GPT-2's 1024-token context limit is
-    handled by scoring longer text in consecutive windows.
+    Calculate local GPT-2 token self-information.
+    Preserve exact source text even when tokenizer offsets contain gaps
+    or overlapping character positions.
     """
     import torch
 
@@ -780,17 +777,19 @@ def get_self_information(text, num_retry=5):
         return [], []
 
     tokenizer, model = _load_local_information_model()
+
     encoded = tokenizer(
         text,
         add_special_tokens=False,
         return_offsets_mapping=True,
         truncation=False,
     )
+
     input_ids = encoded["input_ids"]
     offsets = encoded["offset_mapping"]
 
     if not input_ids:
-        return [], []
+        return [text], [0.0]
 
     scores = [0.0] * len(input_ids)
     context_window = 1024
@@ -805,10 +804,13 @@ def get_self_information(text, num_retry=5):
 
             input_tensor = torch.tensor([window_ids], dtype=torch.long)
             logits = model(input_tensor).logits
+
             log_probs = torch.log_softmax(logits[:, :-1, :], dim=-1)
             targets = input_tensor[:, 1:]
+
             selected = log_probs.gather(
-                dim=-1, index=targets.unsqueeze(-1)
+                dim=-1,
+                index=targets.unsqueeze(-1)
             ).squeeze(-1)
 
             for local_index, log_probability in enumerate(
@@ -816,21 +818,33 @@ def get_self_information(text, num_retry=5):
             ):
                 scores[window_start + local_index] = -float(log_probability)
 
-    valid = [
-        (start, end, index)
-        for index, (start, end) in enumerate(offsets)
-        if end > start
-    ]
-    tokens = [text[start:end] for start, end, _ in valid]
-    self_info = [scores[index] for _, _, index in valid]
+    # Reconstruct the original text using monotonic character boundaries.
+    # Any gaps or overlaps in tokenizer offsets are absorbed into adjacent
+    # token pieces, preserving exact text and score alignment.
+    tokens = []
+    self_info = []
+    cursor = 0
+
+    for index, (start, end) in enumerate(offsets):
+        end = max(cursor, min(int(end), len(text)))
+
+        if end > cursor:
+            tokens.append(text[cursor:end])
+            self_info.append(scores[index])
+            cursor = end
+
+    # Preserve any trailing characters.
+    if cursor < len(text):
+        if tokens:
+            tokens[-1] += text[cursor:]
+        else:
+            tokens = [text]
+            self_info = [0.0]
 
     if "".join(tokens) != text:
-        raise ValueError(
-            "GPT-2 tokenizer offsets did not reconstruct the original text exactly."
-        )
+        raise ValueError("Could not reconstruct original text.")
 
     return tokens, self_info
-
 
 if __name__ == "__main__":
     context_path, = sys.argv[1:]

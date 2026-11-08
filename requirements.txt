@@ -1,0 +1,11 @@
+torch
+transformers
+numpy
+pandas
+spacy
+nltk
+filelock
+tqdm
+rouge-score
+bert-score
+scipy

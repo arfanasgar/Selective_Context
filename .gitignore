@@ -1,0 +1,48 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Model checkpoints and caches
+*.pkl
+*.pickle
+*.lock
+.cache/
+.cache_huggingface/
+models/
+
+# Local datasets
+Dataset/*.json
+Dataset/*.jsonl
+Dataset/*.csv
+
+# Generated summaries and intermediate outputs
+results/generated_summaries.csv
+results/experiment_results.csv
+results/bertscore_results.csv
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
