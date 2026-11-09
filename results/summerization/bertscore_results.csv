@@ -1,0 +1,175 @@
+﻿article_id,title,compression_ratio,bertscore_precision,bertscore_recall,bertscore_f1
+world-europe-65018434,EU gives Ukraine €2bn of ammunition after shell plea - BBC News,0.0,0.8893877863883972,0.9586542248725891,0.9227229356765747
+uk-politics-65012967,Boris Johnson submits evidence before Partygate grilling - BBC News,0.0,0.9061413407325745,0.9684039354324341,0.9362385869026184
+uk-scotland-edinburgh-east-fife-65007151,'I did not send my child to university to die' - BBC News,0.0,0.8844714164733887,0.9397476315498352,0.9112721085548401
+world-europe-65021987,Ukraine says Russian missiles destroyed in Crimea - BBC News,0.0,0.8698718547821045,0.9027933478355408,0.8860268592834473
+uk-wales-64981797,Miss Wales says she is grateful after life-changing M4 crash - BBC News,0.0,0.8918840289115906,0.9629530906677246,0.9260570406913757
+science-environment-65000182,UN climate report: Scientists release 'survival guide' to avert climate disaster - BBC News,0.0,0.8652349710464478,0.8927740454673767,0.8787888288497925
+uk-england-manchester-65014006,Bryn Hargreaves: Body of missing former Wigan Warriors star found - BBC News,0.0,0.862488865852356,0.9123226404190063,0.8867061138153076
+entertainment-arts-65012888,Bruce Willis's wife speaks of her grief at his dementia on his 68th birthday - BBC News,0.0,0.8767259120941162,0.9340367913246155,0.9044744372367859
+world-middle-east-65010185,"Saudi Arabia invited Iran's President Raisi to visit, Tehran says - BBC News",0.0,0.8724694848060608,0.8985319137573242,0.8853089809417725
+world-us-canada-64825205,XXXTentacion: Three men found guilty of murdering rapper in 2018 - BBC News,0.0,0.8996474742889404,0.9536529779434204,0.9258633852005005
+65018262,Aleksandar Mitrovic: FA says standard ban 'clearly insufficient' as Fulham striker charged - BBC Sport,0.0,0.9160394668579102,0.941940188407898,0.9288092851638794
+world-us-canada-65007991,"Prosecuting Donald Trump would be politically motivated, say Republicans - BBC News",0.0,0.87413489818573,0.8963912725448608,0.8851231932640076
+business-65006218,John Lewis considers plan to change staff-owned structure - BBC News,0.0,0.8646197319030762,0.9013407230377197,0.8825984001159668
+world-asia-65005792,Taliban officials must sack sons given government jobs - BBC News,0.0,0.8786904215812683,0.9080106019973755,0.8931099772453308
+uk-england-merseyside-64995094,Victim's father marks 30 years since Warrington IRA bombing - BBC News,0.0,0.8565343022346497,0.8892039060592651,0.872563362121582
+uk-scotland-highlands-islands-64976569,Ullapool: The Highland community facing a 100-mile trip to see a dentist - BBC News,0.0,0.9045055508613586,0.9385446906089783,0.921210765838623
+uk-england-coventry-warwickshire-65006801,Terry Hall: Coventry scooter ride-out pays tribute to singer - BBC News,0.0,0.8543034791946411,0.8742201328277588,0.8641470670700073
+uk-wales-65012434,Transport for Wales rail passengers face disruption into April - BBC News,0.0,0.857393741607666,0.8748349547386169,0.8660265207290649
+business-65017982,Jeffrey Epstein banks to face sex-trafficking case - BBC News,0.0,0.8807719945907593,0.9181451797485352,0.8990703225135803
+business-65015207,RMT members at Network Rail vote to accept pay deal - BBC News,0.0,0.8631561994552612,0.9164125919342041,0.8889875411987305
+65012754,Rupert Murdoch set to marry for fifth time at 92 - BBC News,0.0,0.8643091917037964,0.9078918695449829,0.8855646252632141
+uk-england-tees-65014920,Newborn puppies saved from being dumped in carrier bag - BBC News,0.0,0.8664241433143616,0.9117518663406372,0.8885102868080139
+uk-64998904,Georgia Harrison: I was living in fear of more sex footage - BBC News,0.0,0.8859487771987915,0.9348270297050476,0.9097318649291992
+uk-64991234,Private firms profiting from UK asylum hotels - BBC News,0.0,0.8469082713127136,0.899651050567627,0.8724833130836487
+world-asia-65018657,Putin to Xi: We will discuss your plan to end the war in Ukraine - BBC News,0.0,0.8536327481269836,0.8970428109169006,0.8747995495796204
+world-europe-65014336,France pension reform: Macron's government survives no-confidence vote - BBC News,0.0,0.85930335521698,0.9215444326400757,0.8893362283706665
+uk-politics-64995473,"Bin collections: Plans to change recycling risks chaos, say councils - BBC News",0.0,0.88839191198349,0.9383267164230347,0.9126768708229065
+business-65011579,Credit Suisse: US markets subdued after bank taken over by Swiss rival UBS - BBC News,0.0,0.8481686115264893,0.8776940107345581,0.8626787662506104
+uk-scotland-north-east-orkney-shetland-64964294,Climate change: Couple set for Pole-to-Pole electric car challenge - BBC News,0.0,0.8824508190155029,0.9373965263366699,0.9090941548347473
+world-europe-65018434,EU gives Ukraine €2bn of ammunition after shell plea - BBC News,0.2,0.8915703296661377,0.9669312238693237,0.9277228713035583
+uk-politics-65012967,Boris Johnson submits evidence before Partygate grilling - BBC News,0.2,0.8818397521972656,0.9646365642547607,0.9213818311691284
+uk-scotland-edinburgh-east-fife-65007151,'I did not send my child to university to die' - BBC News,0.2,0.8699774146080017,0.9330540895462036,0.9004124402999878
+world-europe-65021987,Ukraine says Russian missiles destroyed in Crimea - BBC News,0.2,0.8611879944801331,0.9094146490097046,0.8846445083618164
+uk-wales-64981797,Miss Wales says she is grateful after life-changing M4 crash - BBC News,0.2,0.8879866003990173,0.9635462760925293,0.9242246150970459
+science-environment-65000182,UN climate report: Scientists release 'survival guide' to avert climate disaster - BBC News,0.2,0.8609977960586548,0.9041529297828674,0.8820477724075317
+uk-england-manchester-65014006,Bryn Hargreaves: Body of missing former Wigan Warriors star found - BBC News,0.2,0.8712024688720703,0.907461941242218,0.8889626264572144
+entertainment-arts-65012888,Bruce Willis's wife speaks of her grief at his dementia on his 68th birthday - BBC News,0.2,0.8666768670082092,0.9267098307609558,0.8956885933876038
+world-middle-east-65010185,"Saudi Arabia invited Iran's President Raisi to visit, Tehran says - BBC News",0.2,0.8664181232452393,0.8950375318527222,0.8804953694343567
+world-us-canada-64825205,XXXTentacion: Three men found guilty of murdering rapper in 2018 - BBC News,0.2,0.8815255165100098,0.9409037828445435,0.9102473258972168
+65018262,Aleksandar Mitrovic: FA says standard ban 'clearly insufficient' as Fulham striker charged - BBC Sport,0.2,0.9000183939933777,0.918115496635437,0.9089769124984741
+world-us-canada-65007991,"Prosecuting Donald Trump would be politically motivated, say Republicans - BBC News",0.2,0.8579677939414978,0.8864579200744629,0.8719801902770996
+business-65006218,John Lewis considers plan to change staff-owned structure - BBC News,0.2,0.8636004328727722,0.9006903171539307,0.8817554712295532
+world-asia-65005792,Taliban officials must sack sons given government jobs - BBC News,0.2,0.8875669240951538,0.9416807889938354,0.9138234257698059
+uk-england-merseyside-64995094,Victim's father marks 30 years since Warrington IRA bombing - BBC News,0.2,0.873123288154602,0.9513067603111267,0.9105398058891296
+uk-scotland-highlands-islands-64976569,Ullapool: The Highland community facing a 100-mile trip to see a dentist - BBC News,0.2,0.8892694711685181,0.9251613020896912,0.9068604707717896
+uk-england-coventry-warwickshire-65006801,Terry Hall: Coventry scooter ride-out pays tribute to singer - BBC News,0.2,0.8454636335372925,0.8629544973373413,0.8541195392608643
+uk-wales-65012434,Transport for Wales rail passengers face disruption into April - BBC News,0.2,0.8821367621421814,0.9610471725463867,0.9199028015136719
+business-65017982,Jeffrey Epstein banks to face sex-trafficking case - BBC News,0.2,0.8699286580085754,0.8988726735115051,0.8841638565063477
+business-65015207,RMT members at Network Rail vote to accept pay deal - BBC News,0.2,0.8707805275917053,0.9195531606674194,0.8945024609565735
+65012754,Rupert Murdoch set to marry for fifth time at 92 - BBC News,0.2,0.8687204122543335,0.9075990915298462,0.8877342939376831
+uk-england-tees-65014920,Newborn puppies saved from being dumped in carrier bag - BBC News,0.2,0.9082628488540649,0.9607115387916565,0.9337512850761414
+uk-64998904,Georgia Harrison: I was living in fear of more sex footage - BBC News,0.2,0.8761671781539917,0.9291104078292847,0.9018624424934387
+uk-64991234,Private firms profiting from UK asylum hotels - BBC News,0.2,0.8493413329124451,0.9061607718467712,0.8768315315246582
+world-asia-65018657,Putin to Xi: We will discuss your plan to end the war in Ukraine - BBC News,0.2,0.8611997961997986,0.8990457057952881,0.8797158598899841
+world-europe-65014336,France pension reform: Macron's government survives no-confidence vote - BBC News,0.2,0.8576497435569763,0.9024959802627563,0.8795015811920166
+uk-politics-64995473,"Bin collections: Plans to change recycling risks chaos, say councils - BBC News",0.2,0.8901557922363281,0.9397437572479248,0.9142779111862183
+business-65011579,Credit Suisse: US markets subdued after bank taken over by Swiss rival UBS - BBC News,0.2,0.8606523871421814,0.8866391181945801,0.8734524250030518
+uk-scotland-north-east-orkney-shetland-64964294,Climate change: Couple set for Pole-to-Pole electric car challenge - BBC News,0.2,0.8784264922142029,0.9377149939537048,0.9071030020713806
+world-europe-65018434,EU gives Ukraine €2bn of ammunition after shell plea - BBC News,0.35,0.8659390211105347,0.9137111306190491,0.8891838192939758
+uk-politics-65012967,Boris Johnson submits evidence before Partygate grilling - BBC News,0.35,0.8716042041778564,0.9266083836555481,0.8982651233673096
+uk-scotland-edinburgh-east-fife-65007151,'I did not send my child to university to die' - BBC News,0.35,0.8727943897247314,0.9367393255233765,0.9036369919776917
+world-europe-65021987,Ukraine says Russian missiles destroyed in Crimea - BBC News,0.35,0.8592175245285034,0.8974595069885254,0.8779222369194031
+uk-wales-64981797,Miss Wales says she is grateful after life-changing M4 crash - BBC News,0.35,0.891429603099823,0.9589805006980896,0.9239720106124878
+science-environment-65000182,UN climate report: Scientists release 'survival guide' to avert climate disaster - BBC News,0.35,0.8586016297340393,0.9045332670211792,0.8809691071510315
+uk-england-manchester-65014006,Bryn Hargreaves: Body of missing former Wigan Warriors star found - BBC News,0.35,0.8720533847808838,0.9252985119819641,0.8978872895240784
+entertainment-arts-65012888,Bruce Willis's wife speaks of her grief at his dementia on his 68th birthday - BBC News,0.35,0.8697909116744995,0.9271588921546936,0.8975591659545898
+world-middle-east-65010185,"Saudi Arabia invited Iran's President Raisi to visit, Tehran says - BBC News",0.35,0.8494903445243835,0.8649287819862366,0.857140064239502
+world-us-canada-64825205,XXXTentacion: Three men found guilty of murdering rapper in 2018 - BBC News,0.35,0.8804613947868347,0.9409584999084473,0.9097052216529846
+65018262,Aleksandar Mitrovic: FA says standard ban 'clearly insufficient' as Fulham striker charged - BBC Sport,0.35,0.9103151559829712,0.9038317203521729,0.9070618748664856
+world-us-canada-65007991,"Prosecuting Donald Trump would be politically motivated, say Republicans - BBC News",0.35,0.8576099276542664,0.8879662752151489,0.8725241422653198
+business-65006218,John Lewis considers plan to change staff-owned structure - BBC News,0.35,0.8673985004425049,0.9006862640380859,0.8837290406227112
+world-asia-65005792,Taliban officials must sack sons given government jobs - BBC News,0.35,0.8981949090957642,0.9410794377326965,0.9191372394561768
+uk-england-merseyside-64995094,Victim's father marks 30 years since Warrington IRA bombing - BBC News,0.35,0.8683087825775146,0.919081449508667,0.8929739594459534
+uk-scotland-highlands-islands-64976569,Ullapool: The Highland community facing a 100-mile trip to see a dentist - BBC News,0.35,0.8846740126609802,0.9248223304748535,0.904302716255188
+uk-england-coventry-warwickshire-65006801,Terry Hall: Coventry scooter ride-out pays tribute to singer - BBC News,0.35,0.8530192375183105,0.8920437097549438,0.8720951080322266
+uk-wales-65012434,Transport for Wales rail passengers face disruption into April - BBC News,0.35,0.8305164575576782,0.8715806007385254,0.8505532145500183
+business-65017982,Jeffrey Epstein banks to face sex-trafficking case - BBC News,0.35,0.8843468427658081,0.921043872833252,0.9023224115371704
+business-65015207,RMT members at Network Rail vote to accept pay deal - BBC News,0.35,0.8643057942390442,0.9103937149047852,0.8867513537406921
+65012754,Rupert Murdoch set to marry for fifth time at 92 - BBC News,0.35,0.8854981660842896,0.937700629234314,0.9108520150184631
+uk-england-tees-65014920,Newborn puppies saved from being dumped in carrier bag - BBC News,0.35,0.8584550023078918,0.8826985359191895,0.8704079985618591
+uk-64998904,Georgia Harrison: I was living in fear of more sex footage - BBC News,0.35,0.8847992420196533,0.9348233342170715,0.9091237187385559
+uk-64991234,Private firms profiting from UK asylum hotels - BBC News,0.35,0.8600195646286011,0.9007967710494995,0.8799359798431396
+world-asia-65018657,Putin to Xi: We will discuss your plan to end the war in Ukraine - BBC News,0.35,0.8547472357749939,0.896246075630188,0.8750049471855164
+world-europe-65014336,France pension reform: Macron's government survives no-confidence vote - BBC News,0.35,0.8506067395210266,0.88556969165802,0.8677361011505127
+uk-politics-64995473,"Bin collections: Plans to change recycling risks chaos, say councils - BBC News",0.35,0.8892383575439453,0.9303578734397888,0.9093334674835205
+business-65011579,Credit Suisse: US markets subdued after bank taken over by Swiss rival UBS - BBC News,0.35,0.8548054695129395,0.8908646106719971,0.8724625706672668
+uk-scotland-north-east-orkney-shetland-64964294,Climate change: Couple set for Pole-to-Pole electric car challenge - BBC News,0.35,0.8978108167648315,0.9515673518180847,0.9239078164100647
+world-europe-65018434,EU gives Ukraine €2bn of ammunition after shell plea - BBC News,0.5,0.8511039018630981,0.8606734275817871,0.8558619022369385
+uk-politics-65012967,Boris Johnson submits evidence before Partygate grilling - BBC News,0.5,0.8675907850265503,0.9407927393913269,0.9027101993560791
+uk-scotland-edinburgh-east-fife-65007151,'I did not send my child to university to die' - BBC News,0.5,0.8602606654167175,0.9272042512893677,0.892478883266449
+world-europe-65021987,Ukraine says Russian missiles destroyed in Crimea - BBC News,0.5,0.8607441782951355,0.8942733407020569,0.877188503742218
+uk-wales-64981797,Miss Wales says she is grateful after life-changing M4 crash - BBC News,0.5,0.8690029382705688,0.9209128022193909,0.8942050933837891
+science-environment-65000182,UN climate report: Scientists release 'survival guide' to avert climate disaster - BBC News,0.5,0.8591300845146179,0.889907717704773,0.8742481470108032
+uk-england-manchester-65014006,Bryn Hargreaves: Body of missing former Wigan Warriors star found - BBC News,0.5,0.8541508316993713,0.8932567834854126,0.8732662200927734
+entertainment-arts-65012888,Bruce Willis's wife speaks of her grief at his dementia on his 68th birthday - BBC News,0.5,0.8668256402015686,0.9216016530990601,0.8933748006820679
+world-middle-east-65010185,"Saudi Arabia invited Iran's President Raisi to visit, Tehran says - BBC News",0.5,0.8519872426986694,0.8601298928260803,0.8560391664505005
+world-us-canada-64825205,XXXTentacion: Three men found guilty of murdering rapper in 2018 - BBC News,0.5,0.8661326169967651,0.9281220436096191,0.8960564732551575
+65018262,Aleksandar Mitrovic: FA says standard ban 'clearly insufficient' as Fulham striker charged - BBC Sport,0.5,0.902690589427948,0.878261923789978,0.8903087377548218
+world-us-canada-65007991,"Prosecuting Donald Trump would be politically motivated, say Republicans - BBC News",0.5,0.858289361000061,0.8867536783218384,0.8722893595695496
+business-65006218,John Lewis considers plan to change staff-owned structure - BBC News,0.5,0.8667577505111694,0.897537350654602,0.8818790316581726
+world-asia-65005792,Taliban officials must sack sons given government jobs - BBC News,0.5,0.8718757033348083,0.8970405459403992,0.8842790722846985
+uk-england-merseyside-64995094,Victim's father marks 30 years since Warrington IRA bombing - BBC News,0.5,0.8686112761497498,0.9102979898452759,0.8889662027359009
+uk-scotland-highlands-islands-64976569,Ullapool: The Highland community facing a 100-mile trip to see a dentist - BBC News,0.5,0.891294538974762,0.9276835918426514,0.9091250896453857
+uk-england-coventry-warwickshire-65006801,Terry Hall: Coventry scooter ride-out pays tribute to singer - BBC News,0.5,0.8326837420463562,0.8512411713600159,0.8418601751327515
+uk-wales-65012434,Transport for Wales rail passengers face disruption into April - BBC News,0.5,0.869839072227478,0.9242817163467407,0.896234393119812
+business-65017982,Jeffrey Epstein banks to face sex-trafficking case - BBC News,0.5,0.8746005892753601,0.9282212257385254,0.9006134867668152
+business-65015207,RMT members at Network Rail vote to accept pay deal - BBC News,0.5,0.8662065267562866,0.909594714641571,0.8873705863952637
+65012754,Rupert Murdoch set to marry for fifth time at 92 - BBC News,0.5,0.8886489272117615,0.9620445370674133,0.9238913655281067
+uk-england-tees-65014920,Newborn puppies saved from being dumped in carrier bag - BBC News,0.5,0.8553490042686462,0.8831467628479004,0.8690255880355835
+uk-64998904,Georgia Harrison: I was living in fear of more sex footage - BBC News,0.5,0.8794925212860107,0.938076376914978,0.9078403115272522
+uk-64991234,Private firms profiting from UK asylum hotels - BBC News,0.5,0.8634732961654663,0.8933190703392029,0.8781427145004272
+world-asia-65018657,Putin to Xi: We will discuss your plan to end the war in Ukraine - BBC News,0.5,0.8503456115722656,0.8894646763801575,0.8694653511047363
+world-europe-65014336,France pension reform: Macron's government survives no-confidence vote - BBC News,0.5,0.8527140617370605,0.8926613330841064,0.8722305297851562
+uk-politics-64995473,"Bin collections: Plans to change recycling risks chaos, say councils - BBC News",0.5,0.8826057314872742,0.9177512526512146,0.899835467338562
+business-65011579,Credit Suisse: US markets subdued after bank taken over by Swiss rival UBS - BBC News,0.5,0.8518086075782776,0.876518189907074,0.8639867305755615
+uk-scotland-north-east-orkney-shetland-64964294,Climate change: Couple set for Pole-to-Pole electric car challenge - BBC News,0.5,0.8662949204444885,0.9153566360473633,0.8901503086090088
+world-europe-65018434,EU gives Ukraine €2bn of ammunition after shell plea - BBC News,0.65,0.8466633558273315,0.8744349479675293,0.8603250980377197
+uk-politics-65012967,Boris Johnson submits evidence before Partygate grilling - BBC News,0.65,0.8678897619247437,0.9213257431983948,0.8938097953796387
+uk-scotland-edinburgh-east-fife-65007151,'I did not send my child to university to die' - BBC News,0.65,0.8626804351806641,0.9395682215690613,0.8994842171669006
+world-europe-65021987,Ukraine says Russian missiles destroyed in Crimea - BBC News,0.65,0.8558069467544556,0.8822552561759949,0.8688299059867859
+uk-wales-64981797,Miss Wales says she is grateful after life-changing M4 crash - BBC News,0.65,0.864166796207428,0.906883955001831,0.8850102424621582
+science-environment-65000182,UN climate report: Scientists release 'survival guide' to avert climate disaster - BBC News,0.65,0.8650178909301758,0.8897517919540405,0.8772105574607849
+uk-england-manchester-65014006,Bryn Hargreaves: Body of missing former Wigan Warriors star found - BBC News,0.65,0.8542876243591309,0.900688111782074,0.8768744468688965
+entertainment-arts-65012888,Bruce Willis's wife speaks of her grief at his dementia on his 68th birthday - BBC News,0.65,0.8509067893028259,0.9185099601745605,0.8834169507026672
+world-middle-east-65010185,"Saudi Arabia invited Iran's President Raisi to visit, Tehran says - BBC News",0.65,0.8697274923324585,0.8857154250144958,0.8776487112045288
+world-us-canada-64825205,XXXTentacion: Three men found guilty of murdering rapper in 2018 - BBC News,0.65,0.8632197380065918,0.9212353825569153,0.8912844657897949
+65018262,Aleksandar Mitrovic: FA says standard ban 'clearly insufficient' as Fulham striker charged - BBC Sport,0.65,0.9124281406402588,0.8853753805160522,0.8986982107162476
+world-us-canada-65007991,"Prosecuting Donald Trump would be politically motivated, say Republicans - BBC News",0.65,0.8494073748588562,0.8690776228904724,0.8591299653053284
+business-65006218,John Lewis considers plan to change staff-owned structure - BBC News,0.65,0.8736625909805298,0.9064252376556396,0.8897424340248108
+world-asia-65005792,Taliban officials must sack sons given government jobs - BBC News,0.65,0.8529385328292847,0.8845815658569336,0.8684719204902649
+uk-england-merseyside-64995094,Victim's father marks 30 years since Warrington IRA bombing - BBC News,0.65,0.870969831943512,0.8992830514907837,0.8849000334739685
+uk-scotland-highlands-islands-64976569,Ullapool: The Highland community facing a 100-mile trip to see a dentist - BBC News,0.65,0.8666254281997681,0.8955685496330261,0.8808593153953552
+uk-england-coventry-warwickshire-65006801,Terry Hall: Coventry scooter ride-out pays tribute to singer - BBC News,0.65,0.8341567516326904,0.861270010471344,0.8474966287612915
+uk-wales-65012434,Transport for Wales rail passengers face disruption into April - BBC News,0.65,0.8633068799972534,0.8761006593704224,0.8696567416191101
+business-65017982,Jeffrey Epstein banks to face sex-trafficking case - BBC News,0.65,0.879683256149292,0.9179249405860901,0.8983973264694214
+business-65015207,RMT members at Network Rail vote to accept pay deal - BBC News,0.65,0.8734048008918762,0.8998101949691772,0.8864108920097351
+65012754,Rupert Murdoch set to marry for fifth time at 92 - BBC News,0.65,0.890557587146759,0.9486823678016663,0.9187015295028687
+uk-england-tees-65014920,Newborn puppies saved from being dumped in carrier bag - BBC News,0.65,0.8479170799255371,0.8765192031860352,0.8619809746742249
+uk-64998904,Georgia Harrison: I was living in fear of more sex footage - BBC News,0.65,0.858826756477356,0.8970344066619873,0.8775148391723633
+uk-64991234,Private firms profiting from UK asylum hotels - BBC News,0.65,0.8484866619110107,0.885307252407074,0.8665059804916382
+world-asia-65018657,Putin to Xi: We will discuss your plan to end the war in Ukraine - BBC News,0.65,0.8587682247161865,0.8870555758476257,0.8726826906204224
+world-europe-65014336,France pension reform: Macron's government survives no-confidence vote - BBC News,0.65,0.8396300077438354,0.8685436248779297,0.8538421392440796
+uk-politics-64995473,"Bin collections: Plans to change recycling risks chaos, say councils - BBC News",0.65,0.8668726086616516,0.9062494039535522,0.886123776435852
+business-65011579,Credit Suisse: US markets subdued after bank taken over by Swiss rival UBS - BBC News,0.65,0.8442668914794922,0.8812594413757324,0.8623666763305664
+uk-scotland-north-east-orkney-shetland-64964294,Climate change: Couple set for Pole-to-Pole electric car challenge - BBC News,0.65,0.8864461183547974,0.9066430330276489,0.8964308500289917
+world-europe-65018434,EU gives Ukraine €2bn of ammunition after shell plea - BBC News,0.8,0.8557083606719971,0.8608803749084473,0.8582865595817566
+uk-politics-65012967,Boris Johnson submits evidence before Partygate grilling - BBC News,0.8,0.8676915168762207,0.9085668921470642,0.8876588344573975
+uk-scotland-edinburgh-east-fife-65007151,'I did not send my child to university to die' - BBC News,0.8,0.853108286857605,0.876367449760437,0.8645814657211304
+world-europe-65021987,Ukraine says Russian missiles destroyed in Crimea - BBC News,0.8,0.860880970954895,0.8941217660903931,0.8771865963935852
+uk-wales-64981797,Miss Wales says she is grateful after life-changing M4 crash - BBC News,0.8,0.8701431155204773,0.8784596920013428,0.8742815852165222
+science-environment-65000182,UN climate report: Scientists release 'survival guide' to avert climate disaster - BBC News,0.8,0.8287591338157654,0.8682549595832825,0.8480474352836609
+uk-england-manchester-65014006,Bryn Hargreaves: Body of missing former Wigan Warriors star found - BBC News,0.8,0.8322657942771912,0.8417590856552124,0.8369855880737305
+entertainment-arts-65012888,Bruce Willis's wife speaks of her grief at his dementia on his 68th birthday - BBC News,0.8,0.8559556603431702,0.919687807559967,0.8866780400276184
+world-middle-east-65010185,"Saudi Arabia invited Iran's President Raisi to visit, Tehran says - BBC News",0.8,0.8651524782180786,0.8667234778404236,0.8659372925758362
+world-us-canada-64825205,XXXTentacion: Three men found guilty of murdering rapper in 2018 - BBC News,0.8,0.8471253514289856,0.8870869278907776,0.8666457533836365
+65018262,Aleksandar Mitrovic: FA says standard ban 'clearly insufficient' as Fulham striker charged - BBC Sport,0.8,0.8556064963340759,0.8472336530685425,0.8513995409011841
+world-us-canada-65007991,"Prosecuting Donald Trump would be politically motivated, say Republicans - BBC News",0.8,0.8548076152801514,0.8677822947502136,0.8612460494041443
+business-65006218,John Lewis considers plan to change staff-owned structure - BBC News,0.8,0.8524844646453857,0.8982997536659241,0.8747926950454712
+world-asia-65005792,Taliban officials must sack sons given government jobs - BBC News,0.8,0.8877869844436646,0.9076513051986694,0.897609293460846
+uk-england-merseyside-64995094,Victim's father marks 30 years since Warrington IRA bombing - BBC News,0.8,0.8463199138641357,0.8556711673736572,0.8509697914123535
+uk-scotland-highlands-islands-64976569,Ullapool: The Highland community facing a 100-mile trip to see a dentist - BBC News,0.8,0.8758441209793091,0.9004300832748413,0.8879669308662415
+uk-england-coventry-warwickshire-65006801,Terry Hall: Coventry scooter ride-out pays tribute to singer - BBC News,0.8,0.8241959810256958,0.8446006178855896,0.8342735767364502
+uk-wales-65012434,Transport for Wales rail passengers face disruption into April - BBC News,0.8,0.8387113213539124,0.8628093600273132,0.8505896925926208
+business-65017982,Jeffrey Epstein banks to face sex-trafficking case - BBC News,0.8,0.8547782897949219,0.896662712097168,0.8752197027206421
+business-65015207,RMT members at Network Rail vote to accept pay deal - BBC News,0.8,0.8620713949203491,0.9044052362442017,0.8827310800552368
+65012754,Rupert Murdoch set to marry for fifth time at 92 - BBC News,0.8,0.8647394180297852,0.8979074358940125,0.8810113072395325
+uk-england-tees-65014920,Newborn puppies saved from being dumped in carrier bag - BBC News,0.8,0.855108380317688,0.8888950943946838,0.8716744184494019
+uk-64998904,Georgia Harrison: I was living in fear of more sex footage - BBC News,0.8,0.8715692162513733,0.9130868911743164,0.891845166683197
+uk-64991234,Private firms profiting from UK asylum hotels - BBC News,0.8,0.8481400609016418,0.8641736507415771,0.8560818433761597
+world-asia-65018657,Putin to Xi: We will discuss your plan to end the war in Ukraine - BBC News,0.8,0.8537272214889526,0.8713313937187195,0.8624395132064819
+world-europe-65014336,France pension reform: Macron's government survives no-confidence vote - BBC News,0.8,0.8469672203063965,0.8660947680473328,0.8564242124557495
+uk-politics-64995473,"Bin collections: Plans to change recycling risks chaos, say councils - BBC News",0.8,0.8584752678871155,0.8939360976219177,0.8758468627929688
+business-65011579,Credit Suisse: US markets subdued after bank taken over by Swiss rival UBS - BBC News,0.8,0.8433055281639099,0.8633757829666138,0.853222668170929
+uk-scotland-north-east-orkney-shetland-64964294,Climate change: Couple set for Pole-to-Pole electric car challenge - BBC News,0.8,0.8430507779121399,0.869836688041687,0.8562342524528503

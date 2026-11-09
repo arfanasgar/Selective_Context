@@ -49,3 +49,17 @@ desktop.ini
 
 # Local QA dataset contains source article text
 results/qa/qa_dataset.json
+
+# Preliminary response-generation experiment
+results/response_generation/
+
+# Local datasets containing full article text
+results/qa/qa_dataset.json
+results/response_generation_corrected/response_dataset.json
+
+# Local response-generation backup
+results/response_generation_corrected/response_results_backup.csv
+
+# Temporary helper documentation
+README_response_generation.txt
+README_statistical_response_tests.txt

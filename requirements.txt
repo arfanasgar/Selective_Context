@@ -12,3 +12,4 @@ scipy
 matplotlib
 sentencepiece
 tiktoken
+statsmodels
