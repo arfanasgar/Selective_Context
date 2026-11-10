@@ -63,3 +63,22 @@ results/response_generation_corrected/response_results_backup.csv
 # Temporary helper documentation
 README_response_generation.txt
 README_statistical_response_tests.txt
+
+# Full source dataset and generated cache
+Dataset/articles.json
+Dataset/NewsContextManager_sent.pkl
+
+# QA source dataset
+results/qa/qa_dataset.json
+
+# Preliminary response generation
+results/response_generation/
+
+# Reconstruction source text and detailed outputs
+results/context_reconstruction/context_reconstruction_dataset.json
+results/context_reconstruction/reconstruction_results.csv
+results/context_reconstruction/reconstruction_evaluated.csv
+
+# Python cache
+__pycache__/
+*.pyc
